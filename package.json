@@ -60,6 +60,7 @@
     "@lucia-auth/adapter-sqlite": "^3.0.0",
     "drizzle-orm": "^0.29.4",
     "lucia": "^3.0.1",
-    "qwik-lucia": "^0.6.0"
+    "qwik-lucia": "^0.6.0",
+    "react-hot-toast": "^2.4.1"
   }
 }
